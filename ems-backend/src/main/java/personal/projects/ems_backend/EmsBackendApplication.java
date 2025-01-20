@@ -1,4 +1,4 @@
-package personal.project1.ems_backend;
+package personal.projects.ems_backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
